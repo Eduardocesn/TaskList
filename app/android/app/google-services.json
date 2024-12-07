@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927029456514",
+    "project_id": "tasklist-df910",
+    "storage_bucket": "tasklist-df910.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927029456514:android:f62ad754ab307516014e9b",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQW3PVK4bB5qFiNnwFMuJiBWXIcTChVtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
